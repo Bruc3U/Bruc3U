@@ -11,6 +11,10 @@
 - Cloud: Google Cloud Platform
 - Visualization: Power BI, Tableau
 
+# Portfolio
+
+- To see all of my fun projects ▶️ [here](https://github.com/Bruc3U/Projects)
+
 <!---
 Bruc3U/Bruc3U is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
