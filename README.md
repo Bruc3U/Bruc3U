@@ -2,7 +2,7 @@
 
 - 👋 Hey my name is Yanis.
 - 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning data analytics at the University of Dallas. 
+- 🌱 I’m currently studying data analytics at the University of Dallas. 
 - 📫 For any questions, contact me on my [LinkedIn](https://www.linkedin.com/in/yanis-escartin-540934142/)
 
 # Favorite Tools: 
