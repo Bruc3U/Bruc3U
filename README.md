@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning data analytics at the University of Dallas. 
 - 📫 For any questions, contact me on my [LinkedIn](https://www.linkedin.com/in/yanis-escartin-540934142/)
 
-# Favorite Tool: 
+# Favorite Tools: 
 
 - Language: Python, SQL
 - Cloud: Google Cloud Platform
