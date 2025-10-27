@@ -1,15 +1,18 @@
 # Welcome to my page! 
 
 - 👋 Hey my name is Yanis.
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently studying data analytics at the University of Dallas. 
+- 👀 I’m interested in data engineering and machine learning.
+- 🌱 From foundational Data Science background in Python and SQL, to cloud-integrated ETL pipelines in Data Engineering, and predictive ML model deployment.<br>
+I strive to grow technically and stay current with emerging technologies through continuous learning.
+
 - 📫 For any questions, contact me on my [LinkedIn](https://www.linkedin.com/in/yanis-e-540934142/)
 
 # Favorite Tools: 
 
-- Language: Python, SQL
-- Cloud: Google Cloud Platform
-- Visualization: Power BI, Tableau
+- Languages & Libraries: Python (Pandas, NumPy, PyTorch, scikit-learn), SQL, Bash scripting 
+- Cloud Platforms: Google Cloud Platform (GCP), Azure
+- Data Engineering / Pipelines: Airflow, Docker, DBT
+- Visualization & BI: Power BI, Tableau, Streamlit
 
 # Portfolio
 
