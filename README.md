@@ -9,10 +9,11 @@ I strive to grow technically and stay current with emerging technologies through
 
 # Favorite Tools: 
 
-- Languages & Libraries: Python (Pandas, NumPy, PyTorch, scikit-learn), SQL, Bash scripting 
+- Languages & Libraries: Python (Pandas, NumPy, PyTorch, scikit-learn), SQL(PostgreSQL, BigQuery), Bash scripting 
 - Cloud Platforms: Google Cloud Platform (GCP), Azure
 - Data Engineering / Pipelines: Airflow, Docker, DBT
 - Visualization & BI: Power BI, Tableau, Streamlit
+- Versioning: Git 
 
 # Portfolio
 
